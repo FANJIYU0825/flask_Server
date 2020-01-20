@@ -2,9 +2,14 @@
 本篇是在講如何使用微型Server 來架設簡單網站 並且推波到 heroku 上面
 flask 架構
 >Server
->>static
->>templates <br>
->>app.py<br。
+>>static <br>
+>>>css<br>
+>>>js<br>
+>>>images<br>
+>>templates<br> 
+>>>hone_page.html<br>
+
+>>app.py
 
 
 
