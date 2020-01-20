@@ -2,23 +2,15 @@
 
 
 使用微型Server 來架設簡單網站 並且推波到 heroku 上面<br>
-======
+----
 flask 架構<br>
------
->Server
->>static <br>
->>>css<br>
->>>js<br>
->>>images<br>
->>templates<br> 
->>app.py <br>
->>sqllite<br>
 
+![image](https://github.com/FANJIYU0825/flask_Server/blob/master/tree.PNG)
 
-
-
-###本篇所運用到的sqllite為base<br>
-##爬蟲網站<br>
+*發想<br>
+------
+  * 股市是目前一大市場 是唾手可得的data<br>
+  
 
 
 
