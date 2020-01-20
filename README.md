@@ -5,7 +5,7 @@
 
 使用微型Server 來架設簡單網站 並且推波到 heroku 上面<br>
 
-  *flask 架構<br>
+*flask 架構<br>
 
 ![image](https://github.com/FANJIYU0825/flask_Server/blob/master/flask/intrduce%20elem/tree.PNG)
 
