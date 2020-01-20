@@ -1,7 +1,9 @@
-# flask_Server
-#本篇是在講如何使用微型Server 來架設簡單網站 並且推波到 heroku 上面
+# flask_Server 股票即時查訊以及預測
+本篇是在講如何使用微型Server 來架設簡單網站 並且推波到 heroku 上面
+flask 架構
 >Server
 >>static
+>>>css
 >>templates
 
 
@@ -9,4 +11,4 @@
 
 
 
-##這是本大大在職訓局結訓的相關專題
+這是本大大在職訓局結訓的結訓專題
