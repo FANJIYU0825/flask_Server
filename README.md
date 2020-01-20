@@ -3,8 +3,8 @@
 flask 架構
 >Server
 >>static
->>templates
->>app.py
+>>templates <br>
+>>app.py<br。
 
 
 
