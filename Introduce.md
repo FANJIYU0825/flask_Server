@@ -10,7 +10,7 @@ flask 架構<br>
 >>>css<br>
 >>>js<br>
 >>>images<br>
->>templates<br> 
+>templates<br> 
 >>app.py <br>
 >>sqllite<br>
 
